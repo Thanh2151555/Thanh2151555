@@ -1,122 +1,162 @@
 <div align="center">
 
-# 👋 Hi there, I'm Ngo Van Thanh!
+# 👋 Hello World, I'm Ngo Van Thanh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Software+Engineering+%40+FPT+University;Building+Robust+Systems+in+Vietnam;Passionate+about+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;Software+Engineering+Student+%40+FPT+University;Building+Scalable+Backend+Systems;Always+Learning,+Always+Improving)](https://git.io/typing-svg)
 
-**🎓 Software Engineering Student | 💻 Java Backend Enthusiast | 🏀 Basketball & Music Lover**
+![](https://komarev.com/ghpvc/?username=ThanhNgoVan&color=58A6FF&style=flat-square&label=Profile+Views)
 
-<br>
 </div>
 
 ---
 
+<div align="center">
+<pre>
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                Ngo Van Thanh                               │
+├────────────────────────────────────────────────────────────────────────────┤
+│ > whoami        Java Backend Developer                                     │
+│ > university    FPT University                                             │
+│ > location      Hanoi, Vietnam                                             │
+│ > focus         Spring Boot • REST API • SQL Server                        │
+│ > learning      Spring Security • JWT • Docker • System Design             │
+│ > projects      FlippedClass • Hotel PMS • Car Renting                     │
+│ > hobbies       Basketball • Music • Coding                                │
+└────────────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+<br>
+
 <table style="width: 100%; border: none; background: transparent;">
   <tr>
-    <td align="center" valign="top" width="30%" style="border: none;">
+    <td align="center" valign="top" width="40%" style="border: none;">
       <br>
       <pre>
-       .-----------------.
-      /                   \
-     |    //=========\\    |
-     |   ||  { Java } ||   |
-     |    \\=========//    |
-     |                     |
-     |    >_ Code.         |
-     |    >_ Eat.          |
-     |    >_ Sleep.        |
-     |    >_ Repeat.       |
-      \                   /
-       `-----------------`
-          [===]   [===]
-         /_____\ /_____\
+           ________________________
+          /                       /|
+         /_______________________/ |
+        |                       |  |
+        |   IntelliJ IDEA       |  |
+        |-----------------------|  |
+        | > java Main.java      |  |
+        |                       |  |
+        | Building Backend...   |  |
+        | Spring Boot ✔         |  |
+        | SQL Server ✔          |  |
+        | JWT ✔                 |  |
+        | REST API ✔            |  |
+        |_______________________| /
+        |_______________________|/
+         Java • Spring • SQL
       </pre>
-      <br>
-      <div align="center">
-        📍 <b>Hanoi, Vietnam</b> <br>
-        🎯 <b>Goal: Java Backend Dev</b>
-      </div>
     </td>
-    <td valign="top" width="70%" style="border: none;">
+    <td valign="top" width="60%" style="border: none;">
       
-### ⚙️ Operating System & Environment
-![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 👨‍💻 About Me
+*   🎓 **FPT University**
+*   🌏 **Hanoi, Vietnam**
+*   💻 **Java Backend Developer**
+*   🎯 **Goal:** Become a Backend Engineer specializing in Java & Cloud technologies.
 
-### 💻 Languages
+### 🔥 Current Focus
+*   ⚔️ Solving **LeetCode** problems every day
+*   🚀 Learning **Spring Security** & **JWT** Authentication
+*   📦 Building scalable **REST APIs**
+*   📚 Studying **System Design** & Docker
+*   ☁️ Preparing for Java Backend Internship
+
+   </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks
+**Backend & Frameworks**<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-005C84?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Databases
+**Databases**<br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**DevOps & Tools**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-    </td>
-  </tr>
-</table>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ---
 
-### 📚 Currently Learning
-I am constantly striving to improve my backend architecture and problem-solving skills. Currently diving deep into:
-*   **Security & Auth:** `Spring Security`, `JWT`
-*   **Architecture:** `RESTful APIs`, `System Design`
-*   **Algorithms:** Solving `LeetCode` challenges daily
+### 💻 Featured Projects
+
+> **[Flipped Classroom Management System](#)**
+> *Java • Spring Boot • SQL Server*
+> A learning platform supporting flipped classroom methodology, enabling instructors to manage course materials and track student progress effectively.
+
+> **[Hotel Management System](#)**
+> *Java • Spring Boot • SQL Server*
+> Comprehensive hotel reservation and reception management system to streamline bookings, room statuses, and customer data.
+
+> **[Car Renting Management System](#)**
+> *Java • Spring Boot*
+> A vehicle booking and rental management platform focusing on seamless user experience for renting and administration.
 
 ---
 
-### 📁 Featured Projects
-
-*   🚀 **[Project Name 1](#)** - Briefly describe what this project does and the tech stack used (e.g., Spring Boot, MySQL).
-*   🛒 **[Project Name 2](#)** - Briefly describe the system architecture or problem it solves.
-*   🌐 **[Project Name 3](#)** - Mention the key takeaway or learning outcome from building this.
-
----
-
-### 📊 GitHub Statistics
+### 🏆 GitHub Statistics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" height="150" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=ThanhNgoVan&theme=gitdark&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
-
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanhNgoVan&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=00C896&bg_color=161B22" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhNgoVan&theme=dark&hide_border=true&title_color=58A6FF&icon_color=00C896&bg_color=161B22" height="150" alt="GitHub Streak" />
 </div>
-
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&color=2196F3&line=2196F3&point=2196F3" width="800" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhNgoVan&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&bg_color=161B22" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Let's Connect!
+### 🐍 Contribution Graph
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <!-- Lưu ý: Thay đường link bên dưới bằng link Action thật của bạn sau khi setup -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThanhNgoVan/ThanhNgoVan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThanhNgoVan/ThanhNgoVan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThanhNgoVan/ThanhNgoVan/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+---
+
+<div align="center">
+
+```java
+while (alive) {
+    Learn();
+    Build();
+    Improve();
+}

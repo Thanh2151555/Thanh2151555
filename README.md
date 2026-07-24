@@ -1,25 +1,35 @@
-ThanhNgoVan / README.md
+```text
+            g@M%@%%@N%Nw,,              thanh@github ---------------------------------------------------
+         ,M*|` ||*%gNM=]mM%g||%N,       . OS:         ......................... Windows 11
+       p!`   `! |` ' ' '|||jhlj%w       . Uptime:     ......................... Always Learning
+     ,@L `           ' ' '! |j%M]M      . University: ......................... FPT University
+    ]j'`  .,wp@pw,      ` ' ' ' |%Wg    . Major:      ......................... Software Engineering
+  /{||]@@@@@@@@@pp.               ||||| . IDE:        ......................... IntelliJ IDEA, VS Code
+  ` ' ]@@@@@@@@@@@@@p           ' ' ' ' .
+    :]%%@@@@@%%%%%%k%h '*||mkr      *   . Languages.Program: ................. Java, JavaScript, SQL
+    ' j%M`       |jkk'  ~nrn=|i      ;' . Languages.Web: ..................... HTML, CSS, JSON, Markdown
+      !  jrr*^`           `"! L''!:!    . Languages.Real: .................... Vietnamese, English
+       j  lp;,.  ,/ @@    ,;\nmy "  ,~  .
+       i r @@@@mmHM @@@@ ^****M*,p ;,   . Backend: ........................... Spring Boot, REST API
+       | ]@@@HHH]g@M%%%%H,jmgpmb%  j    . Database: .......................... SQL Server, MySQL
+       ;;%%%%k%@[,.n|;.;j%%k|k%%', [    . Architecture: ...................... MVC, JPA, Hibernate
+       H|%%k%%%j%k||,;;j:!!'|%ij}]@     .
+       "djjmkL,"]][,,,,wwxw;|#kjk`      - Current Focus ------------------------------------------------
+         %;%km%%%%M%M|%%jkkii|||[       . Learning: ......................... Spring Security
+           kjj%kkkl!||||||j|||"         . Authentication: ................... JWT
+             |jm%H@@@b%%kkmk%i!,[       . Practice: ......................... LeetCode
+              @p|j%%%jkk|||j*`;;j[      . Goal: ............................. Java Backend Developer
+             ]@@@g|''''''    ,;j%k      .
+              @@@@@mgmp;,,,;:jj%%k%     - Projects -----------------------------------------------------
+             @@@@@@@%%kgki!|jjjj%k%@ .  . Flipped Classroom Management System
+   . ^['' %@@@@HH%b%k{illljkjj%%%%; `,  . Hotel / Motel Management System
+  =[' ` . %HH%%%%H@gkilljjj%kk%".    `  . Car Renting Management System
 
-             _,,pNMMMMMMMMMMMMMMNp,,_           thanh@ngo ----------------------------------------------------
-          ,gM%MMMMMMMMMMMMMMMMMMMMMM%Mg,        . OS:          ............................. Windows 11, Linux
-        ,M%MMMMMMMMMMMMMMMMMMMMMMMMMMMM%M,      . Uptime:      ....................... 21 years, 4 months, 12 days
-       j%MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM%j     . Host:        .............................. FPT University
-      j%MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM%j    . Role:        ...................... Java Backend Developer
-      |MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM|    . IDE:         ..................... IntelliJ IDEA, VS Code, 
-      |MMMMMP^""`"TMMMMMMMMMMMMMMMMMMMMMMMM|    .
-      |MMMP`       `TMMMMMMMMMMMMMMMMMMMMMM|    . Languages.Programming: ........ Java, JavaScript, SQL, HTML, CSS
-      jMM~           MMMMMMMMMMMMMMMMMMMMMM     . Frameworks.Backend:    ........ Spring Boot, Spring Security, JWT
-      |M|             jMMMMMMMMMMMMMMMMMMMM     . Databases.Relational:  ........ SQL Server, MySQL
-      |M|            ,MMMMMMMMMMMMMMMMMMMMM     .
-      |M|           ,MMMMMMMMMMMMMMMMMMMMMP     . Hobbies.Sports:        ........ Basketball
-      `M|          ,MMMMMMMMMMMMMMMMMMMMMM      . Hobbies.General:       ........ Music, Coding, LeetCode
-       `M         ,MMMMMMMMMMMMMMMMMMMMMMP      .
-        `        ,MMMMMMMMMMMMMMMMMMMMMMM       - Contact ----------------------------------------------------
-                ,MMMMMMMMMMMMMMMMMMMMMMM        . Email.Personal:        ........ ngovthanh0404#gmail.com
-               ,MMMMMMMMMMMMMMMMMMMMMMM         . LinkedIn:              ........ linkedin.com/in/th%C3%A0nh-ng%C3%B4-v%C4%83n-a87792321/
-              ,MMMMMMMMMMMMMMMMMMMMMMM          . GitHub:                ........ github.com/Thanh2151555
-             jMMMMMMMMMMMMMMMMMMMMMMM           .
-           .MMMMMMMMMMMMMMMMMMMMMMMMM           - GitHub Stats -----------------------------------------------
-         .MMMMMMMMMMMMMMMMMMMMMMMMMMMM          . Repos: .... 45 {Contributed: 20} | Stars: .................. 12
-       .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM         . Commits: ................. 1,204 | Followers: .............. 34
-     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        . Lines of Code on GitHub: 154,230 ( 120,400++, 33,830-- )
+                                      - GitHub -------------------------------------------------------
+                                      . Repository: ......................... Public Projects
+                                      . Interests: ......................... Backend Development
+                                      . Favorite IDE: ...................... IntelliJ IDEA
+                                      . Favorite DB: ....................... SQL Server
+                                      . Hobby: ............................. Basketball, Music
+                                      . Motto: ............................. Code • Learn • Improve
+```
